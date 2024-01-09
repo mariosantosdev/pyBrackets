@@ -1,4 +1,4 @@
-# pyBrackets
+# DEPRECATED
 
 A module for remove brackets of string
 
